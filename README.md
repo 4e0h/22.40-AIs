@@ -1,4 +1,5 @@
-## A gameserver for v14.60 with player AIs
+## A gameserver for v22.40 with player AIs
+### If you would like to skid pls credit me, ploosh, pongo, and ralzify
 
 <details>
   <summary>To do list fr</summary>
