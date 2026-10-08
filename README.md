@@ -3,7 +3,7 @@
 <details>
   <summary>To do list fr</summary>
   <ul>
-    <li>Fix win slowmo (dm on discord if you would like to help :3 )</li>
+    <li>Fix win slowmo (dm on discord if you would like to help :3)</li>
     <li>Fix no skins on ais</li>
   </ul>
 </details>
