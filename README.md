@@ -1,5 +1,5 @@
 ## A gameserver for v22.40 with player AIs
-### If you would like to skid pls credit me, ploosh, pongo, and ralzify
+### If you would like to skid pls credit me, ploosh, pongo, and ralzify <3
 
 <details>
   <summary>To do list fr</summary>
